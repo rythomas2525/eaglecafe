@@ -3,7 +3,7 @@ import Col from "../components/Col"
 import Row from "../components/Row"
 import Container from "../components/Container";
 import Jumbotron from "../components/Jumbotron";
-
+import "./home.css"
 
 
 

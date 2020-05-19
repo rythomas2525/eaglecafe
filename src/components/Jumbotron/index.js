@@ -11,7 +11,7 @@ function Jumbotron() {
     return (
         <div class="jumbotron jumbotron-fluid jumbobackground" style={{ width: "100vw" }}>
             <div class="container jumbopadding">
-                <h1 class="cafe">Eagle Cafe</h1>
+                <h1 class="cafe">Eagle Café</h1>
 
             </div>
         </div>
