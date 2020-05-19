@@ -2,6 +2,7 @@ import React from "react";
 import Col from "../components/Col"
 import Row from "../components/Row"
 import Container from "../components/Container";
+import Jumbotron from "../components/Jumbotron";
 
 
 
@@ -14,7 +15,9 @@ function Home() {
 
 
     return (
+
         <div>
+            <Jumbotron />
             <Container>
                 <Row>
                     <h1>I'm baby tacos typewriter craft beer activated charcoal retro swag PBR&B sriracha heirloom kombucha yuccie. Messenger bag tattooed gochujang, cardigan cred echo park post-ironic. VHS ethical pok pok pabst, whatever brunch irony thundercats normcore chicharrones. Polaroid fingerstache tousled unicorn etsy vaporware yuccie semiotics. Sustainable franzen hella shoreditch, four loko semiotics +1.
