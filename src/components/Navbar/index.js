@@ -12,28 +12,26 @@ function Navbar() {
         <nav className="navbar navbar-expand-xs  background">
 
 
-            <Col size="md-2" >
-                <Link className="navbar-brand eaglecafe  " to="/">
+            <Col size="md-1" >
+                <Link className="navbar-brand eaglecafe justify-content-center  " to="/">
                     Eagle Cafe
       </Link>
+
             </Col>
-            <Col size="md-1" >
-                <Link className=" navtext  " to="/">
+            <Col size="md-4"  >
+                <Link className=" navtext m-4 justify-content-center " to="/">
                     Home
       </Link>
-            </Col>
-
-            <Col size="md-1" >
-                <Link className=" navtext  justify-content-center" to="/menu">
+                <Link className=" navtext  m-4 justify-content-center" to="/menu">
                     Menu
       </Link>
-            </Col>
-            <Col size="md-2" >
-                <Link className=" navtext  justify-content-center" to="/menu">
+                <Link className=" navtext m-4 justify-content-center" to="/contact">
                     Contact Us
       </Link>
             </Col>
-            <Col size="md-6"></Col>
+
+
+            <Col size="xs-7"></Col>
 
         </nav >
     );

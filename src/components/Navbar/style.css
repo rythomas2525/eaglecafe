@@ -1,19 +1,19 @@
 nav {
-    height: 100px;
+    height: 115px;
     margin-bottom: 120px;
    background-color: rgba(100, 117, 110, 0.8);
    width: 100vw;
 }
 
 .eaglecafe {
-    font-family: 'Lobster', cursive;
+    font-family: 'Damion', cursive;
   
     margin-top: -13px;
     
    
     justify-content: center;
   
-      font-size: 60px;
+      font-size: 70px;
       color: black;
       
       
@@ -22,8 +22,7 @@ nav {
   }
   
 .navtext {
-    font-family: 'Lobster', cursive;
-  
+    font-family: 'Muli', sans-serif;
     margin-top: -13px;
     
    
