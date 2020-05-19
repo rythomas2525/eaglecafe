@@ -1,14 +1,14 @@
 nav {
-    height: 115px;
+    height: 100px;
     margin-bottom: 120px;
-   background-color: rgba(100, 117, 110, 0.8);
+   background-color: rgba(226, 226, 226, 0.8);
    width: 100vw;
 }
 
 .eaglecafe {
     font-family: 'Damion', cursive;
   
-    margin-top: -13px;
+    margin-top: -23px;
     
    
     justify-content: center;
@@ -23,7 +23,7 @@ nav {
   
 .navtext {
     font-family: 'Muli', sans-serif;
-    margin-top: -13px;
+    margin-top: -23px;
     
    
     justify-content: center;
@@ -36,3 +36,8 @@ nav {
       /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */
   }
   
+
+  .sticky-nav {
+    position: sticky;
+    top: 0;
+  }

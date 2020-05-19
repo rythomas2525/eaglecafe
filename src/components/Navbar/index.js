@@ -9,10 +9,10 @@ import "./style.css"
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-xs  background">
+        <nav className=" navbar navbar-expand-xs sticky-nav  background">
 
 
-            <Col size="md-1" >
+            <Col size="md-2" >
                 <Link className="navbar-brand eaglecafe justify-content-center  " to="/">
                     Eagle Cafe
       </Link>
@@ -31,7 +31,7 @@ function Navbar() {
             </Col>
 
 
-            <Col size="xs-7"></Col>
+            <Col size="md-2"></Col>
 
         </nav >
     );
