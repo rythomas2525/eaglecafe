@@ -5,6 +5,7 @@ import Container from "./components/Container"
 import Footer from './components/Footer';
 import Home from "./pages/home"
 import Menu from "./pages/menu"
+import Contact from "./pages/contact"
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/home" component={Home} />
         <Route exact path="/menu" component={Menu} />
+        <Route exact path="/contact" component={Contact} />
       </Container>
       <Footer />
 

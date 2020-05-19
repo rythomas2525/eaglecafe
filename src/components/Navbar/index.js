@@ -9,20 +9,31 @@ import "./style.css"
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-xs navbar-success background">
+        <nav className="navbar navbar-expand-xs  background">
 
-            <h1>Eagle Cafe</h1>
 
-            <Col size="xs-4" >
-                <Link className="navbar-brand  d-flex justify-content-center" to="/">
+            <Col size="md-2" >
+                <Link className="navbar-brand eaglecafe  " to="/">
+                    Eagle Cafe
+      </Link>
+            </Col>
+            <Col size="md-1" >
+                <Link className=" navtext  " to="/">
                     Home
       </Link>
             </Col>
-            <Col size="xs-4" >
-                <Link className="navbar-brand  d-flex justify-content-center" to="/menu">
+
+            <Col size="md-1" >
+                <Link className=" navtext  justify-content-center" to="/menu">
                     Menu
       </Link>
             </Col>
+            <Col size="md-2" >
+                <Link className=" navtext  justify-content-center" to="/menu">
+                    Contact Us
+      </Link>
+            </Col>
+            <Col size="md-6"></Col>
 
         </nav >
     );
