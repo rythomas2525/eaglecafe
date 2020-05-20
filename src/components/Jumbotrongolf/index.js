@@ -7,9 +7,9 @@ import "./style.css"
 
 
 
-function Jumbotron() {
+function Jumbotrongolf() {
     return (
-        <div class="jumbotron jumbotron-fluid jumbobackground" style={{ width: "100vw" }}>
+        <div class="jumbotron jumbotron-fluid golfbackground" style={{ width: "100vw" }}>
             <div class="container jumbopadding">
                 <h1 class="cafe">Eagle Café</h1>
 
@@ -18,4 +18,4 @@ function Jumbotron() {
     );
 };
 
-export default Jumbotron;
+export default Jumbotrongolf;

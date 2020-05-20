@@ -1,13 +1,17 @@
-.jumbobackground {
-  background-image: url(../../images/brown-and-white-eagle-3114954.jpg);
+.golfbackground {
+  background-image: url(../../images/grass-green-golf-golf-ball-54122.jpg);
   background-size: cover;
   height: 100vh;
   margin-top: -100px;
-  margin-left: -405px;
+  margin-left: -420px;
+  width: 100vw;
+  
+  
+  
 }
 
 .jumbopadding {
-  padding-top: 100px;
+  
 }
 
 .cafe {
@@ -23,3 +27,5 @@
   color: black;
       
 }
+
+

@@ -1,0 +1,20 @@
+.homepage-google-map {
+  height: 400px;
+  overflow: hidden;
+  width: 100vw;
+  margin-left: -420px;
+ 
+ 
+}
+.google-map {
+  height: 442px;
+  width: 100%;
+  position: relative;
+  top: -46px;
+  outline: 0;
+  border: none;
+  
+}
+
+
+

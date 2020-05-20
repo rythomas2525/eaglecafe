@@ -1,8 +1,9 @@
 nav {
     height: 100px;
    
-   background-color: rgba(226, 226, 226, 0.8);
+   background-color: rgba(226, 226, 226, 0.9);
    width: 100vw;
+   position: absolute;
 }
 
 .eaglecafe {
