@@ -1,9 +1,7 @@
 import React from "react";
-import Col from "../components/Col"
 import Row from "../components/Row"
 import Container from "../components/Container";
 import Jumbotroneagle from "../components/Jumbotroneagle";
-import "./home.css"
 import Jumbotrongolf from "../components/Jumbotrongolf";
 import Googlemap from "../components/Googlemap";
 
