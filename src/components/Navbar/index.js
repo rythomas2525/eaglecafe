@@ -10,38 +10,41 @@ function Navbar() {
     return (
 
         <nav className="navbar navbar-expand-xl navbar-light sticky-nav">
-            <Link className="navbar-brand eaglecafe navhover justify-content-center  " to="/">
-                Eagle Café
+            <Col size="md-4" >
+                <Link className="navbar-brand eaglecafe navhover justify-content-center  " to="/">
+                    Eagle Café
                 </Link>
 
-            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span className="navbar-toggler-icon" />
-            </button>
-            <Col size="md-3 lg-2"></Col>
-            <div className="collapse  navbar-collapse" id="navbarSupportedContent" >
-                <ul className="navbar-nav mr-auto">
-                    <li className="nav-item active">
-                        <Link className=" navtext mr-4  navhover justify-content-center " to="/">
-                            Home
+                <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span className="navbar-toggler-icon" />
+                </button>
+            </Col>
+            <Col size="md-5" >
+                <div className="collapse navbar-collapse" id="navbarSupportedContent" >
+                    <ul className="navbar-nav mr-auto">
+                        <li className="nav-item active">
+                            <Link className=" navtext mr-4  navhover justify-content-center " to="/">
+                                Home
           </Link>
-                    </li>
-                    <li className="nav-item">
-                        <Link className=" navtext  mr-4 navhover justify-content-center" to="/menu">
-                            Menu
+                        </li>
+                        <li className="nav-item">
+                            <Link className=" navtext  mr-4 navhover justify-content-center" to="/menu">
+                                Menu
           </Link>
-                    </li>
+                        </li>
 
-                    <li className="nav-item">
-                        <Link className=" navtext mr-4 navhover justify-content-center" to="/contact">
-                            Contact Us
+                        <li className="nav-item">
+                            <Link className=" navtext mr-4 navhover justify-content-center" to="/contact">
+                                Contact Us
           </Link>
-                    </li>
+                        </li>
 
 
-                </ul>
+                    </ul>
 
-            </div>
-
+                </div>
+            </Col>
+            <Col size="md-3" ></Col>
 
         </nav>
     );
