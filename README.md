@@ -9,6 +9,12 @@ https://github.com/rythomas2525/eaglecafe
 http://www.eaglecafeutah.com
 
 
+## Tech Used
+React.js
+CSS
+Bootstrap
+HTML
+
 
 
 ## SCREENSHOT
