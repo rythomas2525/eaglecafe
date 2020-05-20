@@ -4,6 +4,7 @@
   height: 100vh;
   margin-top: -100px;
   
+  
 }
 
 .jumbopadding {
@@ -19,11 +20,12 @@
   text-align: center;
   top: 50%;
   width: 100%;
-  font-size: 250px;
+  font-size: 17vw;
   color: black;
-  
-      
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;    
 }
+
+
 
 
 
