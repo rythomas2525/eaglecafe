@@ -9,12 +9,12 @@ import "./style.css"
 
 function Jumbotroneagle() {
     return (
-        <div class="jumbotron jumbotron-fluid jumbobackground" style={{ width: "100vw" }}>
-            <div class="container jumbopadding">
-                <h1 class="cafe">Eagle Café</h1>
 
-            </div>
+        <div class=" jumbobackground" style={{ width: "100vw" }}>
+            <h1 class="cafe">Eagle Café</h1>
+
         </div>
+
     );
 };
 

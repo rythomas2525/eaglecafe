@@ -18,7 +18,7 @@ function Home() {
 
     return (
 
-        <div>
+        <div >
             <Jumbotroneagle />
             <Container>
                 <Row style={{ paddingBottom: "200px", paddingTop: "100px" }}>
@@ -47,9 +47,10 @@ function Home() {
                         Dummy text? More like dummy thicc text, amirite?
 </p>
                 </Row>
-                <Jumbotrongolf />
-                <Googlemap />
+
             </Container>
+            <Jumbotrongolf />
+            <Googlemap />
         </div >
     )
 
