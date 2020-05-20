@@ -20,22 +20,22 @@ function Addressjumbotron() {
                     <Col size="md-4"></Col>
                 </Row>
                 <Row >
-                    <Col size="md-4" className="addressnoline ml-4 mr-2 text-center"  >
+                    <Col size="xs-4" className="addressnoline ml-4 mr-2 text-center"  >
                         <h1 >Address</h1>
                         <h2>6345 Murray Pkwy Ave</h2>
                         <h2> Murray, UT 84123</h2>
                     </Col>
 
-                    <Col size="md-4" className="address ml-4 mr-2 text-center"  >
-                        <h1 >Address</h1>
-                        <h2>6345 Murray Pkwy Ave</h2>
-                        <h2> Murray, UT 84123</h2>
+                    <Col size="xs-4" className="address ml-4 mr-2 text-center"  >
+                        <h1>Follow Us</h1>
+                        <h2>Social Media Logos</h2>
+                        <h2>Go Here</h2>
                     </Col>
 
-                    <Col size="md-4" className="addressnoline ml-4  text-center"  >
-                        <h1 >Address</h1>
-                        <h2>6345 Murray Pkwy Ave</h2>
-                        <h2> Murray, UT 84123</h2>
+                    <Col size="xs-4" className="addressnoline ml-4  text-center"  >
+                        <h1 >Hours & Ordering</h1>
+                        <h2>Please call us at</h2>
+                        <h2>801-268-6611 </h2>
                     </Col>
                 </Row>
             </Container>
