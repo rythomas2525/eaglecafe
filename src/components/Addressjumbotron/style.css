@@ -1,0 +1,33 @@
+.addressjumbo {
+  background-color: darkslategray;
+  background-size: cover;
+  height: 43vh;
+  margin-top: -4px;
+  background-position: center;
+  
+}
+
+.address {
+  margin-top: 115px;
+ padding-right: 10px;
+ padding-top: 13px;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  border-right:  1px solid white;
+  height: 180px;
+}
+
+
+
+
+.addressnoline {
+  margin-top: 115px;
+ padding-right: 10px;
+ padding-top: 13px;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+
+

@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Home from "./pages/home"
 import Menu from "./pages/menu"
 import Contact from "./pages/contact"
+import Addressjumbotron from './components/Addressjumbotron';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       <Route exact path="/home" component={Home} />
       <Route exact path="/menu" component={Menu} />
       <Route exact path="/contact" component={Contact} />
-
+      <Addressjumbotron />
       <Footer />
 
 
