@@ -42,3 +42,8 @@ nav {
     position: sticky;
     top: 0;
   }
+
+  .navhover:hover {
+    color: darkslategray;
+    text-decoration: none;
+  }

@@ -13,21 +13,21 @@ function Navbar() {
 
 
             <Col size="md-3" >
-                <Link className="navbar-brand eaglecafe justify-content-center  " to="/">
+                <Link className="navbar-brand eaglecafe navhover justify-content-center  " to="/">
                     Eagle Café
       </Link>
 
             </Col>
             <Col size="md-4"  >
-                <Link className=" navtext mr-4 justify-content-center " to="/">
+                <Link className=" navtext mr-4 navhover justify-content-center " to="/">
                     Home
       </Link>
 
 
-                <Link className=" navtext  mr-4 justify-content-center" to="/menu">
+                <Link className=" navtext  mr-4 navhover justify-content-center" to="/menu">
                     Menu
       </Link>
-                <Link className=" navtext mr-4 justify-content-center" to="/contact">
+                <Link className=" navtext mr-4 navhover justify-content-center" to="/contact">
                     Contact Us
       </Link>
             </Col>
