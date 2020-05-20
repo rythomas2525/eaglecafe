@@ -8,7 +8,7 @@
 }
 
 .address {
-  margin-top: 115px;
+  margin-top: 15px;
  padding-right: 10px;
  padding-top: 13px;
   color: white;
@@ -21,11 +21,17 @@
 
 
 .addressnoline {
-  margin-top: 115px;
+  margin-top: 15px;
  padding-right: 10px;
  padding-top: 13px;
   color: white;
   font-family: 'Quicksand', sans-serif;
+}
+
+.cafeaddress {
+  font-family: 'Damion', cursive;
+  font-size: 80px;
+  color: black;
 }
 
 
