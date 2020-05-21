@@ -6,7 +6,8 @@ footer {
     left:0;
     width: 100vw; 
     background-color:rgba(226, 226, 226, 0.9);
-    font-family: 'Play', sans-serif;
+    /* font-family: 'Play', sans-serif; */
+    font-family: 'Quicksand', sans-serif;
 }
 
 #rlt {

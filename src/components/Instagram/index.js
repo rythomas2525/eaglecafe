@@ -4,7 +4,7 @@ import "./style.css"
 
 function Instagram() {
     return <div>
-        <a href="https://www.instagram.com/eaglecafeutah/" target="_blank" rel="noopener noreferrer" title="instagram"><img src={instagramlogo} alt="linkedin" className="bottomicons instagram" /></a>
+        <a href="https://www.instagram.com/eaglecafeutah/" target="_blank" rel="noopener noreferrer" title="instagram"><img src={instagramlogo} alt="linkedin" className="instagram" /></a>
     </div>;
 }
 

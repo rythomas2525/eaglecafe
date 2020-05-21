@@ -29,15 +29,16 @@ function Addressjumbotron() {
                     </Col>
 
                     <Col size="xs-4" className="address ml-4 mr-2 text-center"  >
-                        <h1>Follow Us</h1>
 
-                        <Instagram />
-                    </Col>
-
-                    <Col size="xs-4" className="addressnoline ml-4  text-center"  >
                         <h1 >Hours & Ordering</h1>
                         <h2>Please call us at</h2>
                         <h2>801-268-6611 </h2>
+                    </Col>
+
+                    <Col size="xs-4" className="addressnoline ml-4  text-center"  >
+                        <h1>Follow Us</h1>
+                        <h2>on Instagram</h2>
+                        <Instagram />
                     </Col>
                 </Row>
             </Container>

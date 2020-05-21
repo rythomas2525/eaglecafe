@@ -8,7 +8,8 @@
 .google-map {
   height: 442px;
   width: 100%;
-  /* position: relative; */
+  position: relative;
+  pointer-events: none;
   top: -46px;
   outline: 0;
   border: none;
