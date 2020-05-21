@@ -3,6 +3,7 @@ import "./style.css"
 import Row from '../Row';
 import Col from '../Col';
 import Container from '../Container';
+import Instagram from '../Instagram';
 
 
 
@@ -20,6 +21,7 @@ function Addressjumbotron() {
                     <Col size="md-4"></Col>
                 </Row>
                 <Row >
+
                     <Col size="xs-4" className="addressnoline ml-4 mr-2 text-center"  >
                         <h1 >Address</h1>
                         <h2>6345 Murray Pkwy Ave</h2>
@@ -28,8 +30,8 @@ function Addressjumbotron() {
 
                     <Col size="xs-4" className="address ml-4 mr-2 text-center"  >
                         <h1>Follow Us</h1>
-                        <h2>Social Media Logos</h2>
-                        <h2>Go Here</h2>
+
+                        <Instagram />
                     </Col>
 
                     <Col size="xs-4" className="addressnoline ml-4  text-center"  >
