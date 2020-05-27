@@ -27,7 +27,7 @@
   bottom: -20px;
   z-index: -1;
   border: 20px solid transparent;
-  border-right-color: #043140;
+  border-right-color: #0a3800;
   
   -webkit-animation: edge 500ms;
   -moz-animation: edge 500ms;
@@ -39,7 +39,7 @@
   left: auto;
   right: -20px;
   border-right-color: transparent;
-  border-left-color: #043140;
+  border-left-color: #0a3800;
 }
 
 .ribbon i:nth-child(3), .ribbon i:last-child {
