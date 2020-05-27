@@ -6,7 +6,10 @@ import Container from '../Container';
 import Instagram from '../Instagram';
 import Baconcheese from "../Baconcheese"
 import Breakfastbanner from '../Breakfastbanner';
-
+import Lunchbanner from '../Lunchbanner';
+import Sidesbanner from '../Sidesbanner';
+import Beveragebanner from '../Beveragebanner';
+import Dinnerbanner from '../Dinnerbanner';
 
 
 
@@ -17,9 +20,23 @@ function Menu() {
 
             <Container>
                 <Row style={{ paddingBottom: "200px", paddingTop: "100px" }}>
-                    <h1>Lunch</h1>
-                    <Breakfastbanner />
-                    <Baconcheese />
+
+                    <Col size="md-12">
+                        <Breakfastbanner />
+                    </Col>
+                    <Col size="md-12">
+                        <Lunchbanner />
+                    </Col>
+                    <Col size="md-12">
+                        <Dinnerbanner />
+                    </Col>
+                    <Col size="md-12">
+                        <Sidesbanner />
+                    </Col>
+                    <Col size="md-12">
+                        <Beveragebanner />
+                    </Col>
+                    {/* <Baconcheese /> */}
 
                     <p>
                         Deep v keytar ennui try-hard raclette. Literally cred unicorn 90's organic tumeric raclette cray listicle messenger bag before they sold out. Banjo distillery everyday carry iceland, live-edge readymade taxidermy pop-up normcore street art blue bottle. Brunch pour-over jianbing meggings vexillologist banjo aesthetic williamsburg small batch everyday carry +1 sustainable offal. Master cleanse cardigan venmo hammock plaid gastropub post-ironic dreamcatcher man bun humblebrag heirloom art party retro vegan vape. Palo santo dreamcatcher polaroid skateboard mixtape whatever portland taiyaki blue bottle.
