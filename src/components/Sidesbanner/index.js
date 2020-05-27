@@ -12,7 +12,7 @@ function Sidesbanner() {
     return (
 
         <div>
-            <div className="ribbon">
+            <div className="ribbon ">
                 Sides
           <i />
                 <i />

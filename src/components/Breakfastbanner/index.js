@@ -11,7 +11,7 @@ import Instagram from '../Instagram';
 function Breakfastbanner() {
     return (
 
-        <div>
+        <div class="non-semantic-protector ">
             <div className="ribbon">
                 Breakfast
           <i />

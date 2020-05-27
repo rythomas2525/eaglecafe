@@ -12,7 +12,7 @@ function Lunchbanner() {
     return (
 
         <div>
-            <div className="ribbon">
+            <div className="ribbon ">
                 Lunch
           <i />
                 <i />
