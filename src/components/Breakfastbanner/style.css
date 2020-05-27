@@ -45,7 +45,7 @@
 .ribbon i:nth-child(3), .ribbon i:last-child {
   width: 20px;
   bottom: -20px;
-  left: -60px;
+  left: -40px;
   z-index: -2;
   border: 30px solid forestgreen;
   border-left-color: transparent;
@@ -64,7 +64,7 @@
 .ribbon i:last-child {
   bottom: -20px;
   left: auto;
-  right: -60px;
+  right: -40px;
   border: 30px solid forestgreen;
   border-right-color: transparent;
 
