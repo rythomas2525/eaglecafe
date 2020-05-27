@@ -6,9 +6,7 @@ import Jumbotronmenu from "../components/Jumbotronmenu";
 import Jumbotronmenusecond from "../components/Jumbotronmenusecond";
 import Baconcheese from "../components/Baconcheese";
 import Menu from "../components/Menu"
-
-
-
+import breakfast from "../breakfast.json"
 
 
 
@@ -16,9 +14,10 @@ import Menu from "../components/Menu"
 function menu() {
 
 
+
     return (
 
-        <div >
+        < div >
             <Jumbotronmenu />
             <Menu />
             <Jumbotronmenusecond />

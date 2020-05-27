@@ -1,38 +1,44 @@
 [
     {
         "id": 1,
-        "menuItem": "",
-        "price": "",
+        "menuItem": "Hamburger",
+        "price": "$6.00",
         "description": ""
     },
     {
         "id": 2,
-        "menuItem": "",
-        "price": "",
+        "menuItem": "Cheeseburger",
+        "price": "$6.50",
         "description": ""
     },
     {
         "id": 3,
-        "menuItem": "",
-        "price": "",
+        "menuItem": "Hot Dog",
+        "price": "$5.00",
         "description": ""
     },
     {
         "id": 4,
-        "menuItem": "",
-        "price": "",
+        "menuItem": "Polish Dog",
+        "price": "$5.00",
         "description": ""
     },
     {
         "id": 5,
-        "menuItem": "",
-        "price": "",
+        "menuItem": "Grilled Cheese",
+        "price": "$5.00",
         "description": ""
     },
     {
         "id": 6,
-        "menuItem": "",
-        "price": "",
+        "menuItem": "Chicken Tenders & Fries",
+        "price": "$7.00",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "menuItem": "Corn Dog",
+        "price": "$3.50",
         "description": ""
     }
 ]

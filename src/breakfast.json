@@ -3,7 +3,8 @@
         "id": 1,
         "menuItem": "Two Eggs, Potatoes, & Toast",
         "price": "$6.75",
-        "description": "With Ham, Bacon, or Sausage $9.00"
+        "description": "With Ham, Bacon, or Sausage",
+        "price2": "$9.00"
     },
     {
         "id": 2,

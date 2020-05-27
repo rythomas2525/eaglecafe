@@ -6,17 +6,18 @@ import Container from '../Container';
 import Instagram from '../Instagram';
 import Baconcheese from '../Baconcheese'
 import baconcheese from "./baconcheese.jpg"
+import breakfast from "../../breakfast.json"
 
-
-function Itemcard() {
+function Itemcard(props) {
     return (
 
         <div className="itemcard text-center justify-content-center">
             <hr></hr>
 
-            <h1>Bacon Cheeseburger</h1>
-            <h2>Price: $10</h2>
-
+            <h1>{props.menuItem}</h1>
+            <h1>{props.price}</h1>
+            <h3>{props.description}</h3>
+            <h2>{props.price2}</h2>
         </div>
 
     );
