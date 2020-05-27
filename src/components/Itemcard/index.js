@@ -13,8 +13,9 @@ function Itemcard() {
 
         <div className="itemcard text-center justify-content-center">
             <hr></hr>
-            <img className="rounded-circle bg-white mt-4 baconcheeseround" alt="Bacon Cheeseburger" src={baconcheese} />
-            <h1>Hello World</h1>
+
+            <h1>Bacon Cheeseburger</h1>
+            <h2>Price: $10</h2>
 
         </div>
 

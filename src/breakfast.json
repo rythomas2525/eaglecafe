@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "menuItem": "Two Eggs, Potatoes, & Toast",
+        "price": "$6.75",
+        "description": "With Ham, Bacon, or Sausage $9.00"
+    },
+    {
+        "id": 2,
+        "menuItem": "Fried Egg Sandwhich",
+        "price": "$5.00",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "menuItem": "Breakfast Burrito",
+        "price": "$5.00",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "menuItem": "",
+        "price": "",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "menuItem": "",
+        "price": "",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "menuItem": "",
+        "price": "",
+        "description": ""
+    }
+]
