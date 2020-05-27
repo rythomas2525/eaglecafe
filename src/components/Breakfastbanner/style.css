@@ -4,8 +4,9 @@
   height: 60px;
   margin: 100px auto 0px;
   position: relative;
+  
   color: #fff;
-  font: 28px/60px sans-serif;
+  font: 28px/60px 'Muli', sans-serif;
   text-align: center;
   text-transform: uppercase;
   background: darkgreen;
