@@ -10,6 +10,7 @@ import Lunchbanner from '../Lunchbanner';
 import Sidesbanner from '../Sidesbanner';
 import Beveragebanner from '../Beveragebanner';
 import Dinnerbanner from '../Dinnerbanner';
+import Itemcard from '../Itemcard';
 
 
 
@@ -24,11 +25,22 @@ function Menu() {
                     <Col size="md-12">
                         <Breakfastbanner />
                     </Col>
-
-
+                    <Col size="md-12">
+                        <Itemcard />
+                    </Col>
+                    <Col size="md-12">
+                        <Itemcard />
+                    </Col>
+                    <Col size="md-12">
+                        <Itemcard />
+                    </Col>
+                    <Col size="md-12">
+                        <Itemcard />
+                    </Col>
                     <Col size="md-12">
                         <Lunchbanner />
                     </Col>
+
                     <Col size="md-12">
                         <Dinnerbanner />
                     </Col>
