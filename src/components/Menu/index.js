@@ -9,7 +9,7 @@ import Breakfastbanner from '../Breakfastbanner';
 import Lunchbanner from '../Lunchbanner';
 import Sidesbanner from '../Sidesbanner';
 import Beveragebanner from '../Beveragebanner';
-import Dinnerbanner from '../Dinnerbanner';
+
 import Itemcard from '../Itemcard';
 import breakfast from '../../breakfast.json'
 import lunch from "../../lunch.json"
