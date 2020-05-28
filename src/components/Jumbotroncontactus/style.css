@@ -1,0 +1,29 @@
+.jumbocontact {
+  background-image: url(../../images/green-grass-field-beside-body-of-water-under-blue-sky-during-164250.jpg);
+  background-size: cover;
+  height: 100vh;
+  margin-top: -100px;
+  background-position: top;
+}
+
+.jumbopadding {
+  padding-top: 100px;
+}
+
+.cafe {
+  font-family: 'Damion', cursive;
+  left: 0;
+  line-height: 200px; 
+ padding-top: 41vh;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+  font-size: 17vw;
+  color: black;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;    
+}
+
+
+
+
+
